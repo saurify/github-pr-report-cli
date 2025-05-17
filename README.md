@@ -38,8 +38,8 @@ This is a CLI tool to fetch merged pull requests and their reviews from a specif
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/github-pr-report.git
-cd github-pr-report
+git clone https://github.com/saurify/github-pr-report-cli.git
+cd github-pr-report-cli
 ```
 
 2. **Install dependencies**
